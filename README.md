@@ -1,4 +1,4 @@
-Paquetes que serán deshabilitados por ADB:
+*Paquetes que serán deshabilitados por ADB:*
 
 com.oplus.aiunit
 
