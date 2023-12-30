@@ -1,13 +1,9 @@
 Paquetes que serán deshabilitados por ADB:
 
 com.oplus.aiunit
-
 com.coloros.smartsidebar
-
 com.google.android.apps.healthdata
-
 com.oplus.pantanal.ums
-
 com.google.android.marvin.talkback
 com.android.hotwordenrollment.okgoogle
 com.oplus.portrait
