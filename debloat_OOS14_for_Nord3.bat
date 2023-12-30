@@ -1,11 +1,9 @@
-adb shell pm disable-user com.oplus.smartengine
 adb shell pm disable-user com.oplus.aiunit
 adb shell pm disable-user com.coloros.smartsidebar
 adb shell pm disable-user com.google.android.apps.healthdata
 adb shell pm disable-user com.oplus.pantanal.ums
 adb shell pm disable-user com.google.android.marvin.talkback
 adb shell pm disable-user com.android.hotwordenrollment.okgoogle
-adb shell pm disable-user com.oplus.customize.coreapp
 adb shell pm disable-user com.oplus.portrait
 adb shell pm disable-user com.oplus.locationproxy
 adb shell pm disable-user com.android.bips
@@ -19,15 +17,12 @@ adb shell pm disable-user com.microsoft.appmanager
 adb shell pm disable-user com.heytap.browser
 adb shell pm disable-user com.google.android.projection.gearhead
 adb shell pm disable-user com.android.apps.tag
-adb shell pm disable-user com.oplus.linker
 adb shell pm disable-user com.coloros.assistantscreen
-adb shell pm disable-user com.oplus.ndsf
 adb shell pm disable-user com.oplus.metis
 adb shell pm disable-user com.coloros.colordirectservice
 adb shell pm disable-user com.oplus.synergy
 adb shell pm disable-user com.oplus.interconnectcollectkit
 adb shell pm disable-user com.google.ambient.streaming
-adb shell pm disable-user com.oplus.cast
 adb shell pm disable-user com.oppo.quicksearchbox
 adb shell pm disable-user com.coloros.operationManual
 adb shell pm disable-user com.android.chrome
@@ -36,3 +31,18 @@ adb shell pm disable-user com.android.hotwordenrollment.xgoogle
 adb shell pm disable-user com.oplus.games
 adb shell pm disable-user com.google.android.printservice.recommendation
 adb shell pm disable-user com.oplus.statistics.rom
+adb shell pm disable-user com.oplus.cosa
+adb shell pm disable-user com.oplus.crashbox
+adb shell pm disable-user com.oplus.lfeh
+adb shell pm disable-user com.oplus.logkit
+adb shell pm disable-user com.wapi.wapicertmanager
+adb shell pm disable-user com.heytap.mcs
+adb shell pm disable-user com.mediatek.engineermode
+adb shell pm disable-user com.google.android.feedback
+adb shell pm disable-user com.google.ar.lens
+adb shell pm disable-user com.android.bluetoothmidiservice
+adb shell pm disable-user com.android.egg
+adb shell pm disable-user com.android.providers.partnerbookmarks
+adb shell pm disable-user com.android.traceur
+
+pause
